@@ -15,9 +15,4 @@ node app.js (or) npm start
 
 ## Screen Shots of the App: :camera_flash:
 ### Home Page  :boom::black_heart:
-<img
-src=“public/assest/Screenshot from 2020-11-20 10-23-18”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![Test Image 4](https://github.com/varshinivelmurugan/StudentRedressalCommission/tree/master/public/asset/Screenshot from 2020-11-20 10-23-18.png)
