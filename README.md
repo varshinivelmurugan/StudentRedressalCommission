@@ -1,8 +1,8 @@
-# Student Grievance Redressal Commission
+# Student Grievance Redressal Commission :guardsman:
 
-## Description
+## Description:gem:
 
-## Features of the Application
+## Features of the Application:dart:
 
 ## Technologies Used :bulb:
 1. HTML & CSS
@@ -14,8 +14,10 @@
 7. EJS
 8. NLP(wink Bayes Classifier)
 
-## Steps to Compile 
-node app.js (or) npm start
+## Steps to Compile :arrow_down:
+node app.js
+(or)
+npm start
 
 ## Screen Shots of the App: :camera_flash:
 ### Home Page  :boom::black_heart:
@@ -26,7 +28,7 @@ node app.js (or) npm start
 Users are allowed to signup with their email and some validation are done in this part :metal:
 ![Screenshot from 2020-11-20 10-23-31](https://user-images.githubusercontent.com/63966283/99768228-723aa980-2b2a-11eb-8278-cc5f38f59089.png)
 
-### Login:
+### Login::ballot_box_with_check:
 ![Screenshot from 2020-11-20 10-23-58](https://user-images.githubusercontent.com/63966283/99768232-74046d00-2b2a-11eb-9099-45d65f4576cf.png)
 
 ### Student: Complaints
@@ -36,26 +38,26 @@ Users are allowed to signup with their email and some validation are done in thi
 ### Student: Completed Complaints :report
 ![Screenshot from 2020-11-20 10-24-31](https://user-images.githubusercontent.com/63966283/99768239-76ff5d80-2b2a-11eb-93e8-8e406781c643.png)
 
-### Student: Register Complaint
+### Student: Register Complaint:customs:
 ![Screenshot from 2020-11-20 10-25-00](https://user-images.githubusercontent.com/63966283/99768244-7797f400-2b2a-11eb-9195-d167ff05e2cd.png)
 
-### Student: Status
+### Student: Status:chart:
 ![Screenshot from 2020-11-20 10-30-36](https://user-images.githubusercontent.com/63966283/99768249-78c92100-2b2a-11eb-8694-4f017e9f6026.png)
 
-### Student: Complaints Details
+### Student: Complaints Details:hearts:
 ![Screenshot from 2020-11-20 10-39-57](https://user-images.githubusercontent.com/63966283/99768255-7d8dd500-2b2a-11eb-92ea-ecd2beba866c.png)
 
-### Admin: Complaints
+### Admin: Complaints:soon:
 ![Screenshot from 2020-11-20 10-31-02](https://user-images.githubusercontent.com/63966283/99788533-3d891b00-2b47-11eb-930f-bc64ba31a4bd.png)
 
-### Admin: Add Respec heads
+### Admin: Add Respec heads:100:
 ![Screenshot from 2020-11-20 10-31-53](https://user-images.githubusercontent.com/63966283/99788511-37933a00-2b47-11eb-87d5-97e32ccf9a31.png)
 
-### Admin: Delete Respec heads
+### Admin: Delete Respec heads:x:
 ![Screenshot from 2020-11-20 10-32-50](https://user-images.githubusercontent.com/63966283/99788515-38c46700-2b47-11eb-83b2-3fb4cb35e82e.png)
 
 
-### Respec Heads: Complaints
+### Respec Heads: Complaints:calling:
 ![Screenshot from 2020-11-20 11-25-18](https://user-images.githubusercontent.com/63966283/99768265-7ff02f00-2b2a-11eb-8628-9b593ff86d50.png)
 
 ### Respec Heads: Report:fireworks:
