@@ -1,14 +1,18 @@
 # Student Grievance Redressal Commission
 
+## Description
+
+## Features of the Application
+
 ## Technologies Used :bulb:
 1. HTML & CSS
-2. BOOTSTRAP & MEDIA QUERIES
+2. BOOTSTRAP 
 3. NODE JS
 4. EXPRESS JS
 5. MONOGO DB
 6. AJAX
 7. EJS
-8. NLP
+8. NLP(wink Bayes Classifier)
 
 ## Steps to Compile 
 node app.js (or) npm start
@@ -18,7 +22,7 @@ node app.js (or) npm start
 
 ![1](https://user-images.githubusercontent.com/63966283/99768200-6a7b0500-2b2a-11eb-8a3f-48df090750d1.png)
 
-### Signup :
+### Signup :email
 Users are allowed to signup with their email and some validation are done in this part :metal:
 ![Screenshot from 2020-11-20 10-23-31](https://user-images.githubusercontent.com/63966283/99768228-723aa980-2b2a-11eb-8278-cc5f38f59089.png)
 
@@ -41,8 +45,18 @@ Users are allowed to signup with their email and some validation are done in thi
 ### Student: Complaints Details
 ![Screenshot from 2020-11-20 10-39-57](https://user-images.githubusercontent.com/63966283/99768255-7d8dd500-2b2a-11eb-92ea-ecd2beba866c.png)
 
+### Admin: Complaints
+![Screenshot from 2020-11-20 10-31-02](https://user-images.githubusercontent.com/63966283/99788533-3d891b00-2b47-11eb-930f-bc64ba31a4bd.png)
+
+### Admin: Add Respec heads
+![Screenshot from 2020-11-20 10-31-53](https://user-images.githubusercontent.com/63966283/99788511-37933a00-2b47-11eb-87d5-97e32ccf9a31.png)
+
+### Admin: Delete Respec heads
+![Screenshot from 2020-11-20 10-32-50](https://user-images.githubusercontent.com/63966283/99788515-38c46700-2b47-11eb-83b2-3fb4cb35e82e.png)
+
+
 ### Respec Heads: Complaints
 ![Screenshot from 2020-11-20 11-25-18](https://user-images.githubusercontent.com/63966283/99768265-7ff02f00-2b2a-11eb-8628-9b593ff86d50.png)
 
-### Respec Heads: Report
+### Respec Heads: Report:fireworks:
 ![Screenshot from 2020-11-20 11-27-31](https://user-images.githubusercontent.com/63966283/99768272-81b9f280-2b2a-11eb-9d18-25ccc735e0e1.png)
