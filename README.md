@@ -24,18 +24,18 @@ npm start
 
 ![1](https://user-images.githubusercontent.com/63966283/99768200-6a7b0500-2b2a-11eb-8a3f-48df090750d1.png)
 
-### Signup :email
+### Signup :email:
 Users are allowed to signup with their email and some validation are done in this part :metal:
 ![Screenshot from 2020-11-20 10-23-31](https://user-images.githubusercontent.com/63966283/99768228-723aa980-2b2a-11eb-8278-cc5f38f59089.png)
 
 ### Login::ballot_box_with_check:
 ![Screenshot from 2020-11-20 10-23-58](https://user-images.githubusercontent.com/63966283/99768232-74046d00-2b2a-11eb-9099-45d65f4576cf.png)
 
-### Student: Complaints
+### Student: Complaints:newspaper:
 ![Screenshot from 2020-11-20 10-24-25](https://user-images.githubusercontent.com/63966283/99768236-75359a00-2b2a-11eb-8a6e-8f868eb01139.png)
 
 
-### Student: Completed Complaints :report
+### Student: Completed Complaints :report::newspaper:
 ![Screenshot from 2020-11-20 10-24-31](https://user-images.githubusercontent.com/63966283/99768239-76ff5d80-2b2a-11eb-93e8-8e406781c643.png)
 
 ### Student: Register Complaint:customs:
@@ -50,7 +50,7 @@ Users are allowed to signup with their email and some validation are done in thi
 ### Admin: Complaints:soon:
 ![Screenshot from 2020-11-20 10-31-02](https://user-images.githubusercontent.com/63966283/99788533-3d891b00-2b47-11eb-930f-bc64ba31a4bd.png)
 
-### Admin: Add Respec heads:100:
+### Admin: Add Respec heads::registered:
 ![Screenshot from 2020-11-20 10-31-53](https://user-images.githubusercontent.com/63966283/99788511-37933a00-2b47-11eb-87d5-97e32ccf9a31.png)
 
 ### Admin: Delete Respec heads:x:
