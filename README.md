@@ -1,1 +1,1 @@
-# StudentRedressalCommission
+Student Grievance Redressal Commission
