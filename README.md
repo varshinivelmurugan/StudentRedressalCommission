@@ -15,4 +15,4 @@ node app.js (or) npm start
 
 ## Screen Shots of the App: :camera_flash:
 ### Home Page  :boom::black_heart:
-![Test Image 4](Screenshot from 2020-11-20 10-39-57.png)
+![Test Image 4](1.png)
